@@ -20,5 +20,4 @@ Hello my name is Rasmus, and i joined github on the 10th of july 2022 and im sti
 ## Projects That im currently working/contributing on
 - [Github Readme](https://github.com/RalleeDev/RalleeDev)
 - [Shopkeeper Language files](https://github.com/RalleeDev/Language-Files)
-- 
 
