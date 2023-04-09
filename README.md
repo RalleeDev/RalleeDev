@@ -1,24 +1,35 @@
-<h1 align="center">Hi im Rasmus</h1>
 
-Here is some info about me, so you hopefully can learn something about me
+## 🚀 About Me
+I'm a front-end and back-end developer
 
-## About me
 
-Hello my name is Rasmus, and i joined github on the 10th of july 2022 and im still fairly new to github and that but straight to the point i like doing front end stuff like javascript, css and html i will update my projects containing these files as long as i have motivation for it, i know some basic Java and completed a java course so i know the syntax and that but dont expect me to write a whole program. If you are interested in contributing to my projects you can check them out at [my projects](https://github.com/RalleeDev?tab=repositories)
+# Hi, I'm Rasmus! 👋
 
- 
 
-## Useful facts about myself
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/RalleeDev)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/RalleeDev)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://github.com/RalleeDev)
 
-- Im familiar with Java, Javascript, CSS and html but Javascript and Nodejs is my favorite
-- Im a dog person
-- I like doing smaller projects
-- if you need to contact me on mail my mail is dedelholt@gmail.com
 
- 
+## Other Common Github Profile Sections
+👩‍💻 I'm currently working on a website
 
-## Projects That im currently working/contributing on
-- [Github Readme](https://github.com/RalleeDev/RalleeDev)
-- [My fun website](https://github.com/RalleeDev/RalleeDev.github.io)
-- [Shopkeeper Language files](https://github.com/RalleeDev/Language-Files)
+🧠 I'm currently learning Node.js html and css
+
+👯‍♀️ I'm looking to collaborate on small projects that need a hand
+
+🤔 I'm looking for help with css and html as im not that good at it
+
+💬 Ask me about anything i will be happy to help
+
+📫 How to reach me Dedelholt@gmail.com
+
+😄 Pronouns He/him
+
+⚡️ Fun fact i like soda and water
+
+
+## 🛠 Skills
+Javascript, Nodejs, HTML, CSS...
 
