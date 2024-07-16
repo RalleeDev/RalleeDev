@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/RalleeDev](https://github.com/RalleeDev)
 
-- 💬 Ask me about **Javascript, html, css and java**
+- 💬 Ask me about **Lua, Javascript, html, css and java**
 
 - 📫 How to reach me **N/A**
 
