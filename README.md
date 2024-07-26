@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **A project in lua**
 
-- 🌱 I’m currently learning **Java and lua**
+- 🌱 I’m currently learning **Javascript(to learn typescript) and lua**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RalleeDev](https://github.com/RalleeDev)
 
