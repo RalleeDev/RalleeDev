@@ -1,5 +1,5 @@
 # Hi im Ralle
-Im a Developer from Denmark currently learning c++ and doing fun side projects
+Im a Developer from Denmark and doing fun side projects
 
 ## Projects
 
