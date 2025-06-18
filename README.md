@@ -1,12 +1,18 @@
-# Hi im Ralle
-Im a Developer from Denmark and doing fun side projects
+# 👋 About Me
 
-## Projects
+Hi! I’m a backend developer working (non-paid) on a game server network.  
+I love building things that just work, and I’m currently super proud of an upcoming project (can’t share details yet, but stay tuned!).
 
-- None public atm
+## 🛠️ Tech Stack
+- **Backend:** Node.js
+- **Frontend:** React (some experience)
+- **Languages:** TypeScript (main focus)
 
-## Programs and Languages
-C++, Java, HTML, JS and Lua
-VSCode, Github and Codecademy
+## 🌱 Interests
+- Low-level security (always wanted to dive deeper, but TypeScript keeps me busy!)
+- Currently watching Outer banks on Netflix
 
-## Stats
+## ⚡ Philosophy
+> If it works, it works.
+
+---
