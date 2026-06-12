@@ -1,19 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ralle</h1>
-<h3 align="center">A passionate backend and game developer</h3>
+<h3 align="center">A passionate backend developer</h3>
 
-- 🌱 I’m currently learning **Working with Nginx**
-
-- 👯 I’m looking to collaborate on **Anything backend related around my interests**
-
-- 🤝 I’m looking for help with **Discord.js template for TS**
-
-- 👨‍💻 All of my projects are available at [https://github.com/RalleeDev?tab=repositories](https://github.com/RalleeDev?tab=repositories)
-
-- 💬 Ask me about **Javascript, Typescript, Lua and Docker**
-
-- ⚡ Fun fact **I have a hard time letting go 🙃**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
